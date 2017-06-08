@@ -6,3 +6,6 @@ This was the final project of CS 251 - Intermediate Programming course. To learn
 
 
 https://en.wikipedia.org/wiki/Eight_queens_puzzle
+
+
+This project is no longer being maintained.
